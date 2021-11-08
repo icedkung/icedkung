@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/icedkung/icedkung/readme_header.png "Header")](https://some-url.dev/)
+# Hello, I'm Icedkung! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 --->If i forked someone project and I forget to mention thier credit please let me know. Thank you <3 <----
 
