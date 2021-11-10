@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m @icedkung now I'm a student.
-- 👀 I’m interested in technology and business.
-- 🎊 I'm coding in Java & Python
+- 👀 I’m interested in data analyst and business.
+- 🎊 I'm coding in Java, Python & R
 - 🌱 I’m currently learning Go, Kotlin and Typescript
 - 💞️ I’m looking to collaborate with someone who kindness and want to tech me <3
 
